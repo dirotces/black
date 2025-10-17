@@ -1,7 +1,7 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-let serviceName = "black-cmu.pages.dev";
+let serviceName = "black";
 let APP_DOMAIN = "cmu.pages.dev";
 
 let prxIP = "";
