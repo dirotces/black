@@ -1,8 +1,8 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-let serviceName = "";
-let APP_DOMAIN = "";
+let serviceName = "black-cmu.pages.dev";
+let APP_DOMAIN = "cmu.pages.dev";
 
 let prxIP = "";
 let cachedPrxList = [];
